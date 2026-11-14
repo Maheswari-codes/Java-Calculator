@@ -16,10 +16,10 @@ I created a basic calculator using Java to practise my programming skills.
 - Switch statements
 - If-else conditions
   
-## what i learned
+## What I learned
 While building this project, I practised taking user input, performing calculations and using conditional statements.
 
 This is one of my first steps in learning Java. I look forward to building more projects and improving my coding skills!
 
-##Language Used
+## Language Used
 Java
